@@ -2,9 +2,6 @@
 /* CSS Document */
 
 /*****************************************
-	
-    *Author			Bryan Maxim
-	*Website		www.bryanmaxim.com
 		
  *****************************************/
 /*
@@ -37,7 +34,7 @@ body {
 
 /*Start PreLoader*/
 .loader {position: fixed;z-index: 10000;top: 0;right: 0;bottom: 0;left: 0;background:#000;}
-.loaderimg {left:50%;width:30px;height:30px;background:url(images/1.gif) no-repeat; position:absolute;top:50%;margin-left:-15px;margin-top:-15px;}
+.loaderimg {left:50%;width:30px;height:30px;background:url(https://cdn.jsdelivr.net/gh/wawacm/wawaos/images/1.gif) no-repeat; position:absolute;top:50%;margin-left:-15px;margin-top:-15px;}
 /*End PreLoader*/
 
 /*Clear Div*/
